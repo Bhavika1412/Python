@@ -1,1 +1,2 @@
-# Python
+In Task 1, I gave the two int input function and from that input numbers I have performed 4 operations :- Addition, subtraction, Multiplication, Division
+In Task 2, I gave the two input names which is 'First Name' and 'Last Name' .After input I gave the print function to print "Hello, Bhavika Samaleti! Welcome to the Python program" from the code "print(f"Hello, {full_name}! Welcome to the Python program")" 
