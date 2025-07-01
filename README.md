@@ -6,3 +6,9 @@ In Sum of Integer program,this program uses a for loop to iterate through number
 
 In Assignment 3, Task 1 is program calculates the factorial of a given number using recursion.
 Task 2 is program performs three mathematical operations on a user-input number using Python’s built-in math module.
+
+In Assignment 4, Task 1 is to read and display the content of a file named sample.txt, handling errors if the file doesn't exist.
+Task 2 is To interact with a file named output.txt by:
+Writing initial user input.
+Appending additional input.
+Displaying the final contents of the file.
