@@ -12,3 +12,6 @@ Task 2 is To interact with a file named output.txt by:
 Writing initial user input.
 Appending additional input.
 Displaying the final contents of the file.
+
+In Assignment 5, Task 1 is about to store and retrieve student marks using a dictionary.
+Task 2 is to demonstrate basic list operations like slicing and reversing.
